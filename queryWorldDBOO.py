@@ -3,7 +3,6 @@ Anthony Karnati
 akarnat1@binghamton.edu
 CS110-A55
 Lab 12
-Chelsea Montgomery
 
 '''
 
